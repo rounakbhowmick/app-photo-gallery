@@ -1,0 +1,13 @@
+header {
+  background-color: #f05136;
+  color: white;
+  height: 2em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+div {
+  padding-top: 0.3rem;
+  margin-top: 1rem;
+  padding-left: 1em;
+}

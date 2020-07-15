@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-PhotoGallery"
+    }
+  },
+  "defaultProject": "Angular-PhotoGallery",
+  "cli": {
+    "analytics": false
+  }
 }
